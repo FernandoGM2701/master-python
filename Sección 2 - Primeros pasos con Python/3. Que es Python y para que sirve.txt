@@ -1,0 +1,3 @@
+Python es un lenguaje INTERPRETADO(tipo script, creamos el script se ejecuta y se interpreta por python) no compilado.
+Multipropósito --> Se pueden crear Script para Servidores, programas de Líneas de Comandos, Escritorio, Sitios Web, Aplicaciones Web.
+Multiparadigma --> Programación Estructurada, Imperativa, Funcional y POO

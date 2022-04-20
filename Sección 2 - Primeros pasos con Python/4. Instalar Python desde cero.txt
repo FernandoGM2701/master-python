@@ -1,0 +1,11 @@
+CMD:
+
+python --version
+
+Python 3.8.1
+
+cuando pongo "python" puedo trabajar desde el CMD
+
+con exit() salgo
+
+y con cls limpio la pantalla

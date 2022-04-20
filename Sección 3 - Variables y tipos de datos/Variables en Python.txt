@@ -1,0 +1,5 @@
+Variables es un contenedor de información,
+es como una caja en la cual yo guardo un dato
+En una variable la defino le pongo un nombre y dentro le voy a meter información.
+
+Python lenguaje débilmente tipado: no es necesario indicar el tipo de dato de la variable cada vez que la defino, ya automáticamente Python interpreta el tipo de dato que tiene dentro de la variable 
